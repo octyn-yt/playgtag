@@ -1,5 +1,5 @@
-# dontplaygtag
-crashes gorilla tag when it opens
+# playgtag
+doesn't crash gorilla tag when it opens
 
 
 
