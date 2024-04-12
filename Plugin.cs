@@ -3,7 +3,7 @@ using BepInEx;
 using UnityEngine;
 using Utilla;
 
-namespace dontplaygtag
+namespace playgtag
 {
 	/// <summary>
 	/// This is your mod's main class.
